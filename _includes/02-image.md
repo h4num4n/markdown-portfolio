@@ -1,1 +1,1 @@
-[some dude with glasses](./myAvatar.png)
+[some dude with glasses](http://localhost/myAvatar.png)
