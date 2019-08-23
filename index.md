@@ -1,8 +1,8 @@
 ---
-layout: default
+layout: presentation
 ---
 
-{% include 01-name.md %}
+{% include ./includes/01-name.md %}
 
 <br>
 
