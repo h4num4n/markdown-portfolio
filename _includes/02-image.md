@@ -1,2 +1,1 @@
-what is up?
-![some pussycat](https://octodex.github.com/images/yaktocat.png)one powerful cat
+[some dude with glasses](http://localhost/myAvatar.png)
