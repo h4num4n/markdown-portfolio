@@ -1,1 +1,3 @@
-Replace this with a list of your favorite things.
+* do stuff
+* listen to stuff
+* stuff stuff into stuff
